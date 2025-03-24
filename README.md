@@ -12,7 +12,7 @@ Presentación Personal en un repositorio en GitHub con un archivo README.
 - 🔹 Python 
 - 🔹 Javascript
 
-[Mi imagen](img/Hello World.jpeg)
+![Imagen de Javascript](img/Hello%20World.jpeg)
 
 ## 📫 Contacto
 📧 Gmail: leonermails@gmail.com  
