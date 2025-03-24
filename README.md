@@ -12,6 +12,8 @@ Presentación Personal en un repositorio en GitHub con un archivo README.
 - 🔹 Python 
 - 🔹 Javascript
 
+![Mi imagen](img/Imagen Javascript.jpeg)
+
 ## 📫 Contacto
 📧 Gmail: leonermails@gmail.com  
 🐙 ([Perfil de Github: ](https://github.com/BicerneJavier))
